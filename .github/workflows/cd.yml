@@ -24,7 +24,7 @@ jobs:
           script: |
             cd /home/ec2-user
             rm -rf python-app
-            git clone https://github.com/V-RAJESH-123/python-git.git python-app
+            git clone https://github.com/Sudhirgithib/cdgit.git python-app
             cd python-app
             sudo yum update
             sudo yum install python3-pip -y
